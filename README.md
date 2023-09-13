@@ -1,1 +1,1 @@
-# DRL_Trade
+# Deeep Reinforcement Learning for Trading
